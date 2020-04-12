@@ -1,3 +1,6 @@
+# How to Track Progress
+[Here](https://leetcode.com/discuss/general-discussion/571805/600-problems-in-one-year)'s a good example of how to keep track of time spent on each activity.
+
 # DataStructureAlgo
 
 https://github.com/sarvex/interview-1
